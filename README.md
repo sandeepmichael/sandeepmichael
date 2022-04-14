@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with javacript documentation
 - 💬 Ask me about Mern stack related
-- 📫 How to reach me: michalesandeep25@gmail.com
+- 📫 How to reach me: michaelsandeep25@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: sleeping all day ..)
 
