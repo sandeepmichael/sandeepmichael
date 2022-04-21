@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning typescript
 - 👯 I’m looking to collaborate on github
-- 🤔 I’m looking for help with Best javacript documentation
+- 🤔 I’m looking for help with Best javascript documentation
 - 💬 Ask me about Mern stack related
 - 📫 How to reach me: michaelsandeep25@gmail.com
 - 😄 Pronouns: He
