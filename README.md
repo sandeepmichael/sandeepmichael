@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with best javascript documentation
 - 💬 Ask me about Mern stack related
-- 📫 How to reach me: michaelsandeep25@gmail.com
+- 📫 How to reach me: mahadarisandeep@gmail.com
 - ⚡ Fun fact: sleeping all day ..)
 
 
