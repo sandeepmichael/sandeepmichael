@@ -5,13 +5,12 @@
 
 
 
-- 🔭 I’m currently working on web development
+- 🔭 Hands-on experience with web development
 - 🌱 I’m currently learning typescript
 - 👯 I’m looking to collaborate on github
-- 🤔 I’m looking for help with best javascript documentation
-- 💬 Ask me about Mern stack related
+- 💬 Ask me about Mern stack related and ReactJS
 - 📫 How to reach me: mahadarisandeep@gmail.com
-- ⚡ Fun fact: sleeping all day ..)
+  
 
 
 
