@@ -5,9 +5,10 @@
 
 
 
-- 🔭 Hands-on experience with web development
+- 🔭 Gained Hands-on experience in web development
+-     Familiar Tech-Stack : Javascript, ReactJS, NodeJS, Express, MongoDB
 - 🌱 I’m currently learning typescript
-- 👯 I’m looking to collaborate on github
+- 👯 Contributing on github
 - 💬 Ask me about Mern stack related and ReactJS
 - 📫 How to reach me: mahadarisandeep@gmail.com
   
